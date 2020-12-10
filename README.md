@@ -1,0 +1,2 @@
+# content-analysis-sorting-documents
+sample data of millions of documents, sorted through a simple system that categorizes them based on sentiment analysis techinques. user can upload document, document is uploaded, then analyzed using a variety of tools, then data about the document is revealed, user can then save it to the database or delete it. inspired from online writing services that rate documents based on their content
